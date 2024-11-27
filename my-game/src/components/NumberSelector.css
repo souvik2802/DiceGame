@@ -1,0 +1,22 @@
+.box{
+    border: solid black;
+    height: 2rem;
+    width: 2rem;
+    display: grid;
+    place-items: center;
+}
+
+.all-box{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-left: 60rem;
+    position: absolute;
+    bottom: 38rem;
+    right: 6rem;
+}
+
+.s-box{
+    background-color: black;
+    color: white;
+}

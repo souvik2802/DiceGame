@@ -1,0 +1,15 @@
+ h1{
+    font-size: 6rem;
+    margin-left: 3rem;
+}
+
+p{
+    font-size: 2rem;
+}
+
+.t-score{
+    margin-left: 6rem;
+    /* max-width: fit-content;
+    display: inline-block; */
+    overflow: visible;
+}
